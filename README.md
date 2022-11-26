@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://www.helloethan.tech/](www.helloethan.tech)
+- 👨‍💻 All of my projects are available at [helloethan.tech](https://www.helloethan.tech/)
 
 - 📝 I regularly write articles on [https://medium.com/@ethan_ospina](https://medium.com/@ethan_ospina)
 
