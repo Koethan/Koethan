@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/ethanospina" target="blank"><img src="https://img.shields.io/twitter/follow/ethanospina?logo=twitter&style=for-the-badge" alt="ethanospina" /></a> </p>
 
-- 🔭 I’m currently working on **web apps with API's**
+- 🔭 I’m currently working on **Full-stack apps**
 
-- 🌱 I’m currently learning **API's**
+- 🌱 I’m currently learning **Authentication**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
